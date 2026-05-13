@@ -1,1 +1,1 @@
-SELECT 1
+SELECT a_table
