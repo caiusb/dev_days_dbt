@@ -10,3 +10,7 @@ selectors:
     definition:
       method: fqn
       value: logins_by_user
+  - name: caius_selector
+    definition:
+      method: fqn
+      value: caius_model
